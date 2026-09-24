@@ -1,3 +1,3 @@
 # cassnet
-cassnet
-test
+CassNet
+Coming Soon
